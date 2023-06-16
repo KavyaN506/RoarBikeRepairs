@@ -1,7 +1,7 @@
 html{background-image:linear-gradient(to right,#00deda,#ff00b7);}
 
 body{background-image:url(image-lion-background.png);background-size:cover;background-repeat:no-repeat;background-position:top center;font-family:'Roboto', sans-serif;color:white;font-size:1.125rem;}
-@media(max-width:360px){body{background-image:linear-gradient(to right,#00deda,#ff00b7);}}
+@media(max-width:400px){body{background-image:linear-gradient(to right,#00deda,#ff00b7);}}
 .box{
 width:1024px;
 min-height:300px;
